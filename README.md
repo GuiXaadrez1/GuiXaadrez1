@@ -173,6 +173,15 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 
 <img 
     align="left" 
+    alt="docker" 
+    title="docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/docker/docker-original.svg
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -188,6 +197,17 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/github/github-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="Vscode" 
+    title="Vscode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/vscode/vscode-original.svg
+/>
+
 
 <br/>
 <br/>
