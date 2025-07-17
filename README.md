@@ -37,8 +37,6 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-<br>
-
 <img 
     align="left" 
     alt="Python" 
@@ -92,8 +90,6 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/c/c-original.svg" 
 />
 
-<br>
-
 <img 
     align="left" 
     alt="React"
@@ -120,8 +116,6 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
-<br>
 
 <img 
     align="left" 
@@ -150,8 +144,6 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     src=https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/opencv/opencv-original.svg 
 />
 
-<br>
-
 <img 
     align="left" 
     alt="Postgres" 
@@ -178,8 +170,6 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
-
-<br>
 
 <img 
     align="left" 
