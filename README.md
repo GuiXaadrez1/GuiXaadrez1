@@ -1,8 +1,9 @@
 # 👩🏻‍💻🖥️ Guilherme Henrique 
 
-**`Desenvolvedor | Analista de Sistemas | Analista de Dados | Cientista de Dados`**
+**`Desenvolvedor | Analista de Sisteas | Analista de Dados | Cientista de Dados`**
 
-Sou desenvolvedor graduado em Análise de Sistemas, com experiência em manipulação de dados, automação, desenvolvimento web fullstack e administração de ambientes de desenvolvimento. Natural de Brasília-DF. Concluí o ensino superior na UNIEURO. Atualmente  trabalho com Back-End e Banco de Dados, com foco em Extração, Transformação e Carga/Persistência de dados (ETL). Sou apaixonada por tecnologia e gosto de compartilhar meus conhecimentos.
+Sou desenvolvedor graduado em Análise de Sistemas, com experiência em manipulação de dados, automação, desenvolvimento web fullstack e administração de ambientes de desenvolvimento. Natural de Brasília-DF. Concluí o ensino superior na UNIEURO. Atualmente  trabalho com back-end e banco de dados, com foco em Extração, Transformação e Carga/Persistência de dados (ETL). Sou apaixonada por tecnologia e gosto de compartilhar meus conhecimentos.
+
 
 **📫 Contato: guilhermehenrique.a.dasilva12@gmail.com**
 
@@ -15,7 +16,29 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 
 ⚡ **Curiosidade divertida:** Uma vez criei um sistema que acessava PCs remotamente, fazia backup dos bancos de dados, gerava relatórios prontos — e ainda tomei café enquanto ele trabalhava por mim.
 
-### 🤖 Linguagens e Tecnologias
+---
+
+### ↔️ Linguagens de Marcação
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+### 🤖 Linguagens de Programação
+
 <img 
     align="left" 
     alt="Python" 
@@ -69,23 +92,7 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/c/c-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
+### ⚙️ Frameworks 
 
 <img 
     align="left" 
@@ -98,8 +105,8 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Flask"
+    title="Flask" 
     width="30px" 
     style="padding-right: 10px;" 
     src=https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/flask/flask-original.svg 
@@ -114,6 +121,37 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
+
+### 📊 Bibliotecas de Ciência de Dados 
+
+<img 
+    align="left" 
+    alt="Pandas"
+    title="Pandas" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/pandas/pandas-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Numpy"
+    title="Numpy" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/numpy/numpy-original.svg 
+/>
+
+<img 
+    align="left" 
+    alt="OpenCv"
+    title="OpenCv" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/opencv/opencv-original.svg 
+/>
+
+### 🗄️ Banco de dados
 
 <img 
     align="left" 
@@ -142,6 +180,8 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
 
+## 🗃️ Ferramentas 
+
 <img 
     align="left" 
     alt="Git" 
@@ -153,6 +193,7 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 
 <br/>
 <br/>
+
 
 ### 📊 Estatísticas
 
@@ -166,10 +207,10 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiXaadrez1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiXaadrez1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
