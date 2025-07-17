@@ -3,7 +3,7 @@
 **`Desenvolvedor | Analista de Sistemas | Analista de Dados | Cientista de Dados`**
 
 Sou desenvolvedor graduado em Análise de Sistemas, com experiência em manipulação de dados, automação, desenvolvimento web fullstack e administração de ambientes de desenvolvimento. Natural de Brasília-DF. Concluí o ensino superior na UNIEURO. Atualmente  trabalho com Back-End e Banco de Dados, com foco em Extração, Transformação e Carga/Persistência de dados (ETL). Sou apaixonada por tecnologia e gosto de compartilhar meus conhecimentos.
-
+---
 
 **📫 Contato: guilhermehenrique.a.dasilva12@gmail.com**
 
@@ -13,6 +13,7 @@ Sou desenvolvedor graduado em Análise de Sistemas, com experiência em manipula
 - Gerar relatórios automatizados prontos para uso.
 
 Essa solução reduziu horas de tarefas manuais e aumentou significativamente a confiabilidade do processo.
+---
 
 ⚡ **Curiosidade divertida:** Uma vez criei um sistema que acessava PCs remotamente, fazia backup dos bancos de dados, gerava relatórios prontos — e ainda tomei café enquanto ele trabalhava por mim.
 
