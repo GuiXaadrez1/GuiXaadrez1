@@ -90,6 +90,25 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/c/c-original.svg" 
 />
 
+
+<img 
+    align="left" 
+    alt="Nodejs"
+    title="Nodejs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/nodejs/nodejs-original.svg
+/>
+
+<img 
+    align="left" 
+    alt="Express"
+    title="Express" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/express/express-original.svg
+/>
+
 <img 
     align="left" 
     alt="React"
