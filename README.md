@@ -187,15 +187,6 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/github/github-original.svg" 
-/>
-
 <br>
 
 ### 🗃️ Ferramentas 
@@ -207,6 +198,15 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/github/github-original.svg" 
 />
 
 <br/>
