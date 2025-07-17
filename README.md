@@ -14,7 +14,6 @@ Sou desenvolvedor graduado em Análise de Sistemas, com experiência em manipula
 Essa solução reduziu horas de tarefas manuais e aumentou significativamente a confiabilidade do processo.
 
 ⚡ **Curiosidade divertida:** Uma vez criei um sistema que acessava PCs remotamente, fazia backup dos bancos de dados, gerava relatórios prontos — e ainda tomei café enquanto ele trabalhava por mim.
----
 
 ### 🤖 Linguagens e Tecnologias
 <img 
