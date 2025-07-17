@@ -18,7 +18,7 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 
 ---
 
-### ↔️ Linguagens de Marcação
+### ↔️ Ferramentas e Artefatos 
 
 <img 
     align="left" 
@@ -38,8 +38,6 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 />
 
 <br>
-
-### 🤖 Linguagens de Programação
 
 <img 
     align="left" 
@@ -96,8 +94,6 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 
 <br>
 
-### ⚙️ Frameworks 
-
 <img 
     align="left" 
     alt="React"
@@ -126,8 +122,6 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 />
 
 <br>
-
-### 📊 Bibliotecas de Ciência de Dados 
 
 <img 
     align="left" 
@@ -158,8 +152,6 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 
 <br>
 
-### 🗄️ Banco de dados
-
 <img 
     align="left" 
     alt="Postgres" 
@@ -188,8 +180,6 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 />
 
 <br>
-
-### 🗃️ Ferramentas 
 
 <img 
     align="left" 
