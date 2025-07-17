@@ -1,4 +1,4 @@
-## Salve! Io sono Guilherme Henrique 
+## 🧑‍🏫🖥️💾Aoba! Guilherme Henrique 
 
 🕴️ Sou desenvolvedor graduado em Análise de Sistemas, com experiência em manipulação de dados, automação, desenvolvimento web fullstack e administração de ambientes de desenvolvimento.
 
