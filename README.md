@@ -18,7 +18,7 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 
 ---
 
-### ↔️ Ferramentas e Artefatos 
+### 🚀 Tecnologias & Ferramentas
 
 <img 
     align="left" 
