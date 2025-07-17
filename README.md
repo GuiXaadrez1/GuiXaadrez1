@@ -37,6 +37,8 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
+<br>
+
 ### 🤖 Linguagens de Programação
 
 <img 
