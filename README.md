@@ -17,7 +17,7 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 ⚡ **Curiosidade divertida:** Uma vez criei um sistema que acessava PCs remotamente, fazia backup dos bancos de dados, gerava relatórios prontos — e ainda tomei café enquanto ele trabalhava por mim.
 
 ---
-<--
+
 ### ↔️ Linguagens de Marcação
 
 <img 
@@ -208,8 +208,6 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/github/github-original.svg" 
 />
-
--->
 
 <br/>
 <br/>
