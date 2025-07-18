@@ -255,8 +255,8 @@ A métrica de avaliação segue o esquema de classificação baseado no sistema 
   />
 
 </p>
-
-<hr>
+<br>
+--
 
 ### Tabela sistema de classificação acadêmica japonês.
 
