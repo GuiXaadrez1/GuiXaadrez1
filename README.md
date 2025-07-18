@@ -236,6 +236,16 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 A estatística abaixo foi criada utilizando o repositório: https://github.com/anuraghazra/github-readme-stats.
 A métrica de avaliação segue o esquema de classificação baseado no sistema de classificação acadêmica japonês.
 
+### Tabela sistema de classificação acadêmica japonês.
+
+| **Nota (Letra)** | **Significado**      | **Faixa de Pontuação (%)** | **Equivalência Geral** |
+| ---------------- | -------------------- | -------------------------- | ---------------------- |
+| **S**            | Superior / Excelente | 90–100%                    | A+                     |
+| **A**            | Muito Bom            | 80–89%                     | A                      |
+| **B**            | Bom                  | 70–79%                     | B                      |
+| **C**            | Satisfatório         | 60–69%                     | C                      |
+| **F**            | Reprovado            | Abaixo de 60%              | F                      |
+
 ### 📊 Estatísticas
 
 <p>
@@ -256,16 +266,5 @@ A métrica de avaliação segue o esquema de classificação baseado no sistema 
 
 </p>
 
-<br>
-<br>
 
-### Tabela sistema de classificação acadêmica japonês.
-
-| **Nota (Letra)** | **Significado**      | **Faixa de Pontuação (%)** | **Equivalência Geral** |
-| ---------------- | -------------------- | -------------------------- | ---------------------- |
-| **S**            | Superior / Excelente | 90–100%                    | A+                     |
-| **A**            | Muito Bom            | 80–89%                     | A                      |
-| **B**            | Bom                  | 70–79%                     | B                      |
-| **C**            | Satisfatório         | 60–69%                     | C                      |
-| **F**            | Reprovado            | Abaixo de 60%              | F                      |
 
