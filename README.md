@@ -138,6 +138,15 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 
 <img 
     align="left" 
+    alt="Selenium"
+    title="Selenium" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Pandas"
     title="Pandas" 
     width="30px" 
