@@ -231,6 +231,10 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 <br/>
 <br/>
 
+---
+### Observação
+A estatística abaixo foi criado utilizando o repositório: https://github.com/anuraghazra/github-readme-stats
+<p> as métricas de avaliação segue oe esquema de classificação é baseado <a src = https://en.wikipedia.org/wiki/Academic_grading_in_Japan > no sistema de classificação acadêmica japonês.<a/></p>
 
 ### 📊 Estatísticas
 
