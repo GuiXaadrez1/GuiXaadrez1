@@ -192,8 +192,8 @@ Essa solução reduziu horas de tarefas manuais e aumentou significativamente a 
 
 <img 
     align="left" 
-    alt="MySql" 
-    title="MySql"
+    alt="SQLite" 
+    title="SQLite"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
