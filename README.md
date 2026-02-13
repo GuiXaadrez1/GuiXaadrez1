@@ -269,8 +269,8 @@ A métrica de avaliação segue o esquema de classificação baseado no sistema 
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200"
-    src="https://https://github-readme-stats.vercel.app/api?username=GuiXaadrez1" 
+    height="200" ![Anurag's GitHub stats](
+    src="https://github-readme-stats.vercel.app/api?username=GuiXaadrez1&show_icons=true&theme=radical" 
   />
 
 </p>
