@@ -269,8 +269,8 @@ A métrica de avaliação segue o esquema de classificação baseado no sistema 
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiXaadrez1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="200"
+    src="https://https://github-readme-stats.vercel.app/api?username=GuiXaadrez1" 
   />
 
 </p>
