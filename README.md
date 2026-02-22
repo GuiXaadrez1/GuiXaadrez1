@@ -257,23 +257,6 @@ A métrica de avaliação segue o esquema de classificação baseado no sistema 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GuiXaadrez1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=GuiXaadrez1&show_icons=true&theme=radical" 
-  />
-
-</p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiXaadrez1)](https://github.com/anuraghazra/github-readme-stats)
 
 
